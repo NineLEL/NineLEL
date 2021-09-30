@@ -1,3 +1,8 @@
+<!-- ## Hi! I'm Nine(LEL) 🖐️ -->
+## Hi! I'm Nine <img src="https://raw.githubusercontent.com/igorkowalczyk/igorkowalczyk/master/src/images/wave.gif" width="27px">
+
+
+
 - 👋 Hi, I’m @NineLEL
 - ⚡  I'm a Front-End Developerer
 - 💻 My favorite languages are Node.js and Python
