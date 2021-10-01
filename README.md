@@ -9,5 +9,8 @@
 
 [![Discord Profile](https://discord.c99.nl/widget/theme-3/846010753542127647.png)](https://discord.com/users/846010753542127647)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/NineLEL)
+
+
 
 [Website](https://ninelelworld.cf)
