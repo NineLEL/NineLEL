@@ -14,5 +14,6 @@
 
 <p align="center"> <img src="https://count.getloli.com/get/@ninelel?theme=repl.it" alt="ninelel" /> </p>
 
-
-[Website](https://ninelelworld.cf)
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninelel&show_icons=true&locale=en&layout=compact&theme=onedark" alt="ninelel" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ninelel&show_icons=true&locale=en&theme=onedark" alt="ninelel" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ninelel&theme=onedark" alt="ninelel" /></p>
