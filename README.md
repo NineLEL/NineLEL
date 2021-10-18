@@ -9,7 +9,7 @@
 
 [![Discord Profile](https://discord.c99.nl/widget/theme-3/846010753542127647.png)](https://discord.com/users/846010753542127647)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NineLEL&langs_count=9)](https://github.com/NineLEL)
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=ninelel&no-bg=true&theme=onedark&no-frame=true&column=7&margin-w=15&margin-h=15" alt="ninelel"/></p>
 
 
 <p align="center"> <img src="https://count.getloli.com/get/@ninelel?theme=repl.it" alt="ninelel" /> </p>
