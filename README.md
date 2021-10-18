@@ -12,7 +12,7 @@
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=ninelel&no-bg=true&theme=onedark&no-frame=true&column=7&margin-w=15&margin-h=15" alt="ninelel"/></p>
 
 
-<p align="center"> <img src="https://count.getloli.com/get/@ninelel?theme=repl.it" alt="ninelel" /> </p>
+<p align="center"> <img src="https://count.getloli.com/get/@ninelel?theme=rule34" alt="ninelel" /> </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninelel&show_icons=true&locale=en&layout=compact&theme=onedark" alt="ninelel" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ninelel&show_icons=true&locale=en&theme=onedark" alt="ninelel" />
