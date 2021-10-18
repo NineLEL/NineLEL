@@ -12,5 +12,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NineLEL&langs_count=9)](https://github.com/NineLEL)
 
 
+https://count.getloli.com/get/NineLEL
+
 
 [Website](https://ninelelworld.cf)
