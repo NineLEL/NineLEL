@@ -9,7 +9,7 @@
 
 [![Discord Profile](https://discord.c99.nl/widget/theme-3/846010753542127647.png)](https://discord.com/users/846010753542127647)
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=ninelel&no-bg=true&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="ninelel"/></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=nineel&no-bg=true&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="ninelel"/></p>
 
 
 <p align="center"> <img src="https://count.getloli.com/get/@ninelel?theme=rule34" alt="ninelel" /> </p>
