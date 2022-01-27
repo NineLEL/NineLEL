@@ -3,7 +3,7 @@
 
 
 - 👋 Hi, I’m @NineLEL
-- ⚡  I'm a Front-End Developerer
+- ⚡  I'm a Front and Back-End Developer
 - 💻 My favorite languages are Node.js and Python
 
 
