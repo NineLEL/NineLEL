@@ -4,6 +4,7 @@
 
 - 👋 Hi, I’m @NineLEL
 - 💻 My favorite languages are Node.js and Python
+- 🇹🇭 Translator Thai -> Eng and Eng -> Thai
 
 
 [![Discord Profile](https://discord.c99.nl/widget/theme-3/846010753542127647.png)](https://discord.com/users/846010753542127647)
