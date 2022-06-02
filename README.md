@@ -1,4 +1,4 @@
-## Hi! I'm Nine(LEL) <img src="https://raw.githubusercontent.com/igorkowalczyk/igorkowalczyk/master/src/images/wave.gif" width="19px">
+## Hi! I'm Nine(LEL) <img src="https://raw.githubusercontent.com/igorkowalczyk/igorkowalczyk/master/src/images/wave.gif" width="10px">
 
 
 
