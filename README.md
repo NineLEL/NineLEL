@@ -16,8 +16,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninelel&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ninelel" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ninelel&show_icons=true&locale=en&theme=tokyonight" alt="ninelel" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ninelel&theme=tokyonight" alt="ninelel" /></p>
-
-<p align="center"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=NineLEL&bg_color=1a1b27&color=38bdae&line=38bdae&point=638fda&area=true" alt="graph" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ninelel&theme=tokyonight" alt="ninelel" />
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=NineLEL&bg_color=1a1b27&color=38bdae&line=38bdae&point=638fda&area=true" alt="graph" /></p>
 
 <p align="center"><img align="center" src="https://metrics.lecoq.io/ninelel?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FBangkok" alt="metric" /></p>
