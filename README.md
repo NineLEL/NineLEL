@@ -3,7 +3,7 @@
 
 
 - 👋 Hi, I’m @NineLEL
-- 💻 My favorite languages are Node.js and Python
+- 💻 My favorite languages are JavaScript and Python, I'm learning Rust, C++ and Java
 - 🇹🇭 Translator Thai -> Eng and Eng -> Thai
 
 
