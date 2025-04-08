@@ -7,7 +7,7 @@
 ---
 
 ### 🛠 About Me  
-- 💻 **Favorite Languages:** JavaScript & Python  
+- 💻 **Currently Using:** JavaScript & Python  
 - 📚 **Currently Learning:** Rust, C++, Java  
 - 🌍 **Languages:** Thai & English
 - 🎨 **Interests:** Gaming, Piano, Cooking, Programming  
